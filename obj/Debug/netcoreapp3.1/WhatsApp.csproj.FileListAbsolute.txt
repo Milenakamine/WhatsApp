@@ -1,0 +1,13 @@
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\WhatsApp\WhatsApp\bin\Debug\netcoreapp3.1\WhatsApp.exe
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\WhatsApp\WhatsApp\bin\Debug\netcoreapp3.1\WhatsApp.deps.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\WhatsApp\WhatsApp\bin\Debug\netcoreapp3.1\WhatsApp.runtimeconfig.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\WhatsApp\WhatsApp\bin\Debug\netcoreapp3.1\WhatsApp.runtimeconfig.dev.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\WhatsApp\WhatsApp\bin\Debug\netcoreapp3.1\WhatsApp.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\WhatsApp\WhatsApp\bin\Debug\netcoreapp3.1\WhatsApp.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\WhatsApp\WhatsApp\obj\Debug\netcoreapp3.1\WhatsApp.csprojAssemblyReference.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\WhatsApp\WhatsApp\obj\Debug\netcoreapp3.1\WhatsApp.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\WhatsApp\WhatsApp\obj\Debug\netcoreapp3.1\WhatsApp.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\WhatsApp\WhatsApp\obj\Debug\netcoreapp3.1\WhatsApp.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\WhatsApp\WhatsApp\obj\Debug\netcoreapp3.1\WhatsApp.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\WhatsApp\WhatsApp\obj\Debug\netcoreapp3.1\WhatsApp.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\WhatsApp\WhatsApp\obj\Debug\netcoreapp3.1\WhatsApp.genruntimeconfig.cache
