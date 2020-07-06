@@ -7,7 +7,7 @@ namespace WhatsApp
     public interface IAgenda
     {
         void Cadastrar(Contato contat);
-        void Excluir(string _termo);
+        void Excluir(Contato contat);
         List<Contato> Listar();
 
     }

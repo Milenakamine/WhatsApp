@@ -7,28 +7,6 @@ namespace WhatsApp
 {
     public class Agenda : IAgenda
     {
-        //impletando a interface
-        // public void Cadastrar(Contato contat)
-        // {
-        //     throw new System.NotImplementedException();
-        // }
-
-        // public void Excluir(string _termo)
-        // {
-        //     throw new System.NotImplementedException();
-        // }
-
-        // public void Listar()
-        // {
-        //     throw new System.NotImplementedException();
-        // }
-
-
-         List<Contato> contat;
-
-       //entrada ao csv
-        private const string PATH = "Database/contat.csv";
-
           //se a pasta não existir, ela é criada :
         public Agenda () 
         {
@@ -42,17 +20,16 @@ namespace WhatsApp
             }
         }
 
+            private const string PATH = "Database/contat.csv";
 
-         public void Cadastrar(Contato ann)
+         public void Cadastrar(Contato contat)
         {
-            var line = new string[] { PrepararLinha(ann) };
+             string[] line = { PrepararLinha(contat) };
             File.AppendAllLines(PATH, line);
         }
 
 
-
-
-          public void Excluir (string _termo) 
+          public void Excluir (Contato contat) 
         {
             //criação de lista 
             List<string> linhas = new List<string>();
@@ -64,7 +41,7 @@ namespace WhatsApp
                     linhas.Add (linha);
                 }
             }
-            linhas.RemoveAll (l => l.Contains(_termo));
+            linhas.RemoveAll (l => l.Contains(contat.Nome));
             
             //reescreve o csv de novo 
             // using (StreamWriter output = new StreamWriter (PATH))
@@ -106,6 +83,8 @@ namespace WhatsApp
         {
             return $"Nome: {cont.Nome} - Telefone: {cont.Telefone}";
         }
+
+        
     }
 
 
